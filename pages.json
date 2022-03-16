@@ -396,7 +396,16 @@
             
         }
         ,{
-            "path" : "pages/component/morseCode/morseCode",
+            "path" : "pages/morseCode/morseCode",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/passwords/passwords",
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "",
